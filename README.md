@@ -18,7 +18,7 @@
 
 ## Projeto
 
-
+E.learning é uma plataforma em que estudantes possam assistir aulas de várias matérias, as quais se encontram classificadas.
 
 - [Frontend](https://github.com/Jeronymoo/elearning-frontend): Página web em que o prestador de serviço pode acessar e visualizar os horários e datas de agendamento.
 - [Admin-Frontend](https://github.com/Jeronymoo/elearning-admin-frontend): Aplicativo em que o cliente pode escolher o prestador de serviço e marcar seu horário na data de preferência.
