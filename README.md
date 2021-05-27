@@ -11,9 +11,9 @@
 
 <p align="center">
   <h1>Frontend</h1>
-  <img alt="elearning" src=".github/frontend.gif" width="80%">
+  <img alt="elearning" src=".github/frontend.gif" width="90%">
   <h1>Frontend da parte administrativa</h1>
-  <img alt="elearning" src=".github/admin-frontend.gif" width="80%">
+  <img alt="elearning" src=".github/admin-frontend.gif" width="90%">
 </p>
 
 ## Projeto
